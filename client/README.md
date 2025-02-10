@@ -1,8 +1,22 @@
-# React + Vite
+# GIHUB-PROFILE-MAKEOVER
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a small project where users can create and customize their github profile readme.md.
 
-Currently, two official plugins are available:
+DEMO->[https://github-profile-makeover.vercel.app/](https://github-profile-makeover.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### How to use
+
+-   Enter your github id and other information like Profile details, Socials, Skills.
+-   On next page user can customize github profile stats.
+-   Next page is for customizing github profile streak.
+-   Next page is for cutomizing hitgub profile language card.
+-   After clicking on Generate Preview, users will be able to see a preview of the final profile.
+
+### FUTURE ENHANCEMENT
+
+### Modules used
+
+-   Zustand - state management
+-   React
+
+![GithubProfileMakeover]
