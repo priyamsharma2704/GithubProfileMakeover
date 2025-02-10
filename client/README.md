@@ -19,4 +19,5 @@ DEMO->[https://github-profile-makeover.vercel.app/](https://github-profile-makeo
 -   Zustand - state management
 -   React
 
-![GithubProfileMakeover]
+### PREVIEW
+![githubprofilereadme-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2b8ff6d6-bbb7-42ae-8dd7-150794e81f4b)
